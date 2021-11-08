@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dexter93/dexter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Sup  :octocat:	
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dexter93)](https://github.com/LordDashMe/github-contribution-stats/)
+
+⚡ It's too dangerous to code alone, take this :hammer:	
