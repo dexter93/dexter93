@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 ## Sup  :octocat:	
 ⚡ It's too dangerous to code alone, take this :hammer:
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexter93&theme=graywhite&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dexter93)](https://github.com/LordDashMe/github-contribution-stats/)
-![Dimitris GitHub stats](https://github-readme-stats.vercel.app/api?username=dexter93&show_icons=true&theme=graywhite)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexter93&theme=dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![Dimitris GitHub stats](https://github-readme-stats.vercel.app/api?username=dexter93&show_icons=true&theme=dark&show=reviews,prs_merged)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dexter93?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ### Testing random stats widgets. Will eventually make this page presentable.
-
 #### Maybe
